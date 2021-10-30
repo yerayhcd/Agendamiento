@@ -1,0 +1,27 @@
+{
+  "name": "agendamiento",
+  "version": "1.0.0",
+  "description": "Agendamiento de Citas de concesionario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yerayhcd"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Alicia Prada",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "babel-loader": "^8.2.3",
+    "copy-webpack-plugin": "^6.4.1",
+    "html-webpack-plugin": "^4.5.2",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.4.0"
+  }
+}
